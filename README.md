@@ -2,7 +2,9 @@
 
 Latest Free Shadowsocks(R). 
 
-For subscribe:
+Telegram Channel: https://t.me/getFreeSSR
+
+SSR Subscribe:
 
 - RECENT: `https://git.io/getFreeSSR-recent`
 - STABLE: `https://git.io/getFreeSSR-stable`
