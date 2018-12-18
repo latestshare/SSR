@@ -6,5 +6,5 @@ Telegram Channel: https://t.me/getFreeSSR
 
 SSR Subscribe:
 
-- RECENT: `https://git.io/getFreeSSR-recent`
-- STABLE: `https://git.io/getFreeSSR-stable`
+- RECENT<br>`https://raw.githubusercontent.com/latestshare/SSR/master/recent`
+- STABLE<br>`https://raw.githubusercontent.com/latestshare/SSR/master/stable`
