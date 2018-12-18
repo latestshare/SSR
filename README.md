@@ -2,5 +2,7 @@
 
 Latest Free Shadowsocks(R). 
 
-For subscribe.
+For subscribe:
 
+- RECENT: `https://git.io/getFreeSSR-recent`
+- STABLE: `https://git.io/getFreeSSR-stable`
